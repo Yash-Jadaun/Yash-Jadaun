@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Engineering Student from India.</h3>
  
 <img src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" 
-         alt="Description of the image" 
-         width="700" 
-         height="400" 
-         style="display: block; margin-left: auto; margin-right: auto;">
+     alt="Description of the image" 
+     width="500" 
+     height="300" 
+     style="display: block; margin-left: auto; margin-right: auto;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-jadaun&label=Profile%20views&color=0e75b6&style=flat" alt="yash-jadaun" /> </p>
