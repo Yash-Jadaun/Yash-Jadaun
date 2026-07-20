@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:00C9FF,100:7B68EE&text=Yash%20Jadaun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20🚀&descAlignY=58"/>
 <h1 align="center">
 Hi 👋, I'm Yash Jadaun
 </h1>
@@ -22,6 +23,26 @@ Hi 👋, I'm Yash Jadaun
 - 🎯 Goal: Build products used by millions
 - ⚡ Fun Fact: I love solving coding problems and building real-world applications.
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Jadaun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Jadaun&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true"/>
+
+## 📈 Contribution Graph
+
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Jadaun&theme=tokyo-night&hide_border=true)](https://github.com/Yash-Jadaun)
+
 ---
 
 ## 🚀 Tech Stack
@@ -32,6 +53,13 @@ Hi 👋, I'm Yash Jadaun
 
 </p>
 
+## 🚀 Current Focus
+
+- 💻 Building Full Stack MERN Projects
+- 📚 Improving Data Structures & Algorithms
+- 🚀 Exploring Open Source
+- 💼 Open to Freelance Opportunities
+- ⚡ Learning New Technologies Every Day
 ---
 
 ## 🌐 Connect With Me
@@ -55,5 +83,15 @@ Hi 👋, I'm Yash Jadaun
 </a>
 
 </p>
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yash-Jadaun&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+> **"Code. Learn. Build. Repeat."** 🚀
 
 ---
