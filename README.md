@@ -23,7 +23,7 @@ Hi 👋, I'm Yash Jadaun
 - 🎯 Goal: Build products used by millions
 - ⚡ Fun Fact: I love solving coding problems and building real-world applications.
 
-  ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -38,6 +38,8 @@ Hi 👋, I'm Yash Jadaun
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📈 Contribution Graph
 
