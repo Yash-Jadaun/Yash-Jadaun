@@ -23,22 +23,16 @@ Hi 👋, I'm Yash Jadaun
 - 🎯 Goal: Build products used by millions
 - ⚡ Fun Fact: I love solving coding problems and building real-world applications.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yash-Jadaun&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Jadaun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## 📈 Contribution Graph
 
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Jadaun&theme=tokyo-night&hide_border=true)](https://github.com/Yash-Jadaun)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Jadaun&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 
 ---
 
