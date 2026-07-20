@@ -23,9 +23,9 @@ Hi 👋, I'm Yash Jadaun
 - 🎯 Goal: Build products used by millions
 - ⚡ Fun Fact: I love solving coding problems and building real-world applications.
 
-## 💬 Dev Quote
+## 💬 Developer's Quote
 
-<p align="center" color="red">
+<p align="center">
   <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> -->
 Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 🚀
 </p>
