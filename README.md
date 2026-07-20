@@ -28,12 +28,6 @@ Hi 👋, I'm Yash Jadaun
 
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Jadaun&theme=tokyo-night&hide_border=true)](https://github.com/Yash-Jadaun)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yash-Jadaun&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
-
 ---
 
 ## 🚀 Tech Stack
