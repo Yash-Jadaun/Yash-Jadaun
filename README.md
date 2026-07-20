@@ -33,7 +33,7 @@ Hi 👋, I'm Yash Jadaun
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📈 Contribution Graph
