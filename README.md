@@ -25,8 +25,9 @@ Hi 👋, I'm Yash Jadaun
 
 ## 💬 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<p align="center" color="red">
+  <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> -->
+Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 🚀
 </p>
 
 ## 💻 LeetCode Stats
