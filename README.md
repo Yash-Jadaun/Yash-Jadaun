@@ -26,19 +26,14 @@ Hi 👋, I'm Yash Jadaun
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yash-Jadaun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Jadaun&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yash-Jadaun&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Jadaun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Yash-Jadaun&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-vercel.vercel.app?user=Yash-Jadaun&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📈 Contribution Graph
