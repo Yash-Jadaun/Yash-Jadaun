@@ -23,6 +23,12 @@ Hi 👋, I'm Yash Jadaun
 - 🎯 Goal: Build products used by millions
 - ⚡ Fun Fact: I love solving coding problems and building real-world applications.
 
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
 ## 💻 LeetCode Stats
 
 <p align="center">
