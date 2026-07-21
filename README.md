@@ -3,10 +3,12 @@
 Hi 👋, I'm Yash Jadaun
 </h1>
 
-## 🎵 Recently Played Music
+## 🎵 Currently Listening
 
 <p align="center">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=YashJadaun&width=600" />
+  <a href="https://www.last.fm/user/YashJadaun">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=YashJadaun&count=1&width=600" alt="Last.fm Recently Played" />
+  </a>
 </p>
 
 <h3 align="center">
