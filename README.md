@@ -84,11 +84,11 @@ Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 
 </a>
 
 <a href="https://leetcode.com/u/yashjadaun2711/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" alt="LeetCode"/>
 </a>
 
-<a href="https://open.spotify.com/user/31bn327ba2uutrxl6aapnbcfkkx4">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spotify.svg" width="48"/>
+<a href="https://x.com/Yash_Jadaun_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
