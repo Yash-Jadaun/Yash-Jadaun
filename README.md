@@ -51,7 +51,7 @@ Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 
 
 </p>
 
-##Contributions
+## Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/output/github-contribution-grid-snake-dark.svg" />
