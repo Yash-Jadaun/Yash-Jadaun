@@ -3,17 +3,6 @@
 Hi 👋, I'm Yash Jadaun
 </h1>
 
-## 🎵 Currently Listening
-
-<p align="center">
-  <a href="https://www.last.fm/user/YashJadaun">
-    <img
-      src="https://lastfm-profile-readme.vercel.app/api/YashJadaun?color=0D1117&textColor=FFFFFF&isRounded=true&displayName=true"
-      alt="Currently listening on Last.fm"
-    />
-  </a>
-</p>
-
 <h3 align="center">
 🚀 Full Stack MERN Developer | AI Enthusiast | Open Source Learner
 </h3>
@@ -62,7 +51,7 @@ Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 
 
 </p>
 
-## 🐍 Contribution Snake
+##Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/output/github-contribution-grid-snake-dark.svg" />
