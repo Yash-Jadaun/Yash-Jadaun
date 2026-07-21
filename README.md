@@ -7,7 +7,10 @@ Hi 👋, I'm Yash Jadaun
 
 <p align="center">
   <a href="https://www.last.fm/user/YashJadaun">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=YashJadaun&count=1&width=600" alt="Last.fm Recently Played" />
+    <img
+      src="https://lastfm-profile-readme.vercel.app/api/YashJadaun?color=0D1117&textColor=FFFFFF&isRounded=true&displayName=true"
+      alt="Currently listening on Last.fm"
+    />
   </a>
 </p>
 
