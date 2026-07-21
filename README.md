@@ -90,7 +90,6 @@ Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 
 <a href="https://x.com/Yash_Jadaun_" target="_blank">
   <img src="https://cdn.simpleicons.org/x/ffffff" width="32" alt="X (Twitter)" />
 </a>
-
 </p>
 
 ## 👀 Profile Views
