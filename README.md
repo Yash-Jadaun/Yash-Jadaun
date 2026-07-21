@@ -87,11 +87,9 @@ Life is Difficult. Make it More Difficult. Pursue Computer Science Engineering. 
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48" alt="LeetCode"/>
 </a>
 
-<p align="center">
-  <a href="https://x.com/Yash_Jadaun_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-</p>
+<a href="https://x.com/Yash_Jadaun_" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="32" alt="X (Twitter)" />
+</a>
 
 </p>
 
