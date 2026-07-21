@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:1a1a1a,100:8B0000&text=YASH%20JADAUN&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20GATE%20CSE%202027&descAlignY=55&animation=fadeIn"/>
-<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=280&section=header&text=YASH%20JADAUN&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 Hi 👋, I'm Yash Jadaun
 </h1>
 
