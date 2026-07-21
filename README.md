@@ -3,6 +3,12 @@
 Hi 👋, I'm Yash Jadaun
 </h1>
 
+## 🎵 Recently Played Music
+
+<p align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=YashJadaun&width=600" />
+</p>
+
 <h3 align="center">
 🚀 Full Stack MERN Developer | AI Enthusiast | Open Source Learner
 </h3>
