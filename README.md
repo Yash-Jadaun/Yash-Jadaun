@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A5ACD,50:00C9FF,100:7B68EE&text=Yash%20Jadaun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20🚀&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:1a1a1a,100:8B0000&text=YASH%20JADAUN&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Software%20Developer%20|%20Problem%20Solver%20|%20GATE%20CSE%202027&descAlignY=55&animation=fadeIn"/>
 <h1 align="center">
 Hi 👋, I'm Yash Jadaun
 </h1>
