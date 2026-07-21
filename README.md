@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/main/assets/devil-banner.gif" width="100%" alt="Devil Banner"/>
+  <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/main/assets/devil-banner.mp4" width="100%" alt="Devil Banner"/>
 </p>
 
 <h1>
