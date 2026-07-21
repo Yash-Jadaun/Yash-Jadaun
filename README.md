@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://video-banner-puce.vercel.app/devil-banner.mp4" target="_blank">
-    <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/main/assets/banner-preview.png" width="100%" alt="Watch Devil Banner">
+    <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/main/assets/devil-banner.gif" width="100%" alt="Watch Devil Banner">
   </a>
 </p>
 
