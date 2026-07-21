@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:ff0000&height=300&section=header&text=YASH%20JADAUN&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:8B0000&height=280&section=header&text=YASH%20JADAUN&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 Hi 👋, I'm Yash Jadaun
 </h1>
 
