@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Yash-Jadaun/Yash-Jadaun/main/assets/devil-banner.gif" width="100%" alt="Devil Banner"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:00ffff&height=260&section=header&text=YASH%20JADAUN&fontSize=55&fontColor=ffffff&animation=blinking"/>
+<h1>
 Hi 👋, I'm Yash Jadaun
 </h1>
 
